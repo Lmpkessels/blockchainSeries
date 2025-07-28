@@ -1,3 +1,14 @@
 # Future project dev plans
 secure_data_system_plan.md
 project_ideas.md
+
+# Notes
+making-ching-ching.md
+
+# Scratchpad
+scratch.rs
+
+# Files
+src/phase1_crypto/notes.md
+src/phase1_crypto/structure.md
+src/phase1_crypto/sha256.rs
